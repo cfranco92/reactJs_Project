@@ -11,3 +11,11 @@ React JS project with Platzi.
 React is structured by **components** that are like small lego blocks that when joined together form React applications. These components can have styles, be linked to events and their states can be modified.
 
 With React you also have the advantage that it will be written only once and can be used in web and mobile applications, among others.
+
+# Tools
+These are the tools:
+
+* **Browser:** Especially Chrome since it has excellent development tools.
+* **React Developer Tools:** It is an Open Source tool created by Facebook and has installation for Chrome or Firefox. It will let us see the React code by inspecting elements.
+* **Text editor:** You can use any, in this course we suggest Visual Studio Code. It has many useful plugins for development.
+* **Prettier:** It is a plugin that makes the code look good no matter how it is written.
